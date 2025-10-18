@@ -1,1 +1,3 @@
-Simple Space Engineers Script for adjusting a rotor spinning direction for a motorcylce in the game, the goal was achieve but i can't say that the motorcycle was a good idea lol
+Simple Space Engineers Script for adjusting a rotor spinning direction for a motorcycle in the game, the goal was achieve but i can't say that the motorcycle was a good idea lol
+
+Done using mdk2 template, if you want to try it by yourself remember to create the mdk.local.ini config file that add to the project the game's binaries, and also to made changes to the block's names if yours have different names
