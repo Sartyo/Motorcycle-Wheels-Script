@@ -1,0 +1,1 @@
+Simple Space Engineers Script for adjusting a rotor spinning direction for a motorcylce in the game, the goal was achieve but i can't say that the motorcycle was a good idea lol
